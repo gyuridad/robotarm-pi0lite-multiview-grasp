@@ -1,6 +1,9 @@
 ## 실행 영상(4배속)
   https://drive.google.com/file/d/1QyYSzDktjU-YoII_cun-H9NawKZrPH7U/view?usp=drive_link 
 
+## 노션 요약
+  https://www.notion.so/_1_6-Pi0-VLA-34b5d0bd69638013bba5c1bcd6c57af7?source=copy_link 
+
 # robotarm-pi0lite-multiview-grasp
 
 ## 프로젝트 개요
