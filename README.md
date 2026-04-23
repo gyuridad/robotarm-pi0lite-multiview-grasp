@@ -1,4 +1,4 @@
-## 실행 영상
+## 실행 영상(4배속)
   https://drive.google.com/file/d/1QyYSzDktjU-YoII_cun-H9NawKZrPH7U/view?usp=drive_link 
 
 # robotarm-pi0lite-multiview-grasp
